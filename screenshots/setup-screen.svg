@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="760" viewBox="0 0 360 760" role="img" aria-labelledby="title description">
+  <title id="title">Akshar setup screen preview</title>
+  <desc id="description">Illustration of the Akshar Android app setup screen with enable and choose keyboard buttons and an offline privacy notice.</desc>
+  <rect width="360" height="760" rx="34" fill="#e4e1d8"/>
+  <rect x="14" y="12" width="332" height="736" rx="29" fill="#f4f1e9"/>
+  <rect x="145" y="21" width="70" height="7" rx="4" fill="#d1cec5"/>
+  <g fill="#20251f" font-family="Arial, sans-serif">
+    <text x="36" y="53" font-size="12" font-weight="700">9:41</text>
+    <text x="286" y="53" font-size="12">●  ▰</text>
+  </g>
+  <g transform="translate(36 269)">
+    <rect width="44" height="44" rx="14" fill="#315c48"/>
+    <text x="22" y="30" text-anchor="middle" fill="#fffdf8" font-family="Arial, sans-serif" font-size="23" font-weight="700">अ</text>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <text x="36" y="347" fill="#20251f" font-size="30" font-weight="700">Write with</text>
+    <text x="36" y="383" fill="#315c48" font-size="30" font-weight="700">Akshar</text>
+    <text x="36" y="423" fill="#777b70" font-size="14">An offline transliteration keyboard.</text>
+    <text x="36" y="445" fill="#777b70" font-size="14">Enable it in Android settings, then</text>
+    <text x="36" y="467" fill="#777b70" font-size="14">choose it from your keyboard switcher.</text>
+  </g>
+  <rect x="36" y="501" width="288" height="49" rx="12" fill="#315c48"/>
+  <text x="180" y="531" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Enable Akshar</text>
+  <rect x="36" y="562" width="288" height="49" rx="12" fill="#315c48"/>
+  <text x="180" y="592" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Choose Akshar</text>
+  <g fill="#777b70" font-family="Arial, sans-serif" font-size="12">
+    <text x="36" y="651">Your typing stays on your device.</text>
+    <text x="36" y="670">Akshar does not collect text or need</text>
+    <text x="36" y="689">an internet connection.</text>
+  </g>
+  <rect x="147" y="727" width="66" height="4" rx="2" fill="#20251f" opacity=".65"/>
+</svg>

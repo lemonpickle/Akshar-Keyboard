@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Akshar Keyboard</string>
+    <string name="keyboard_name">Akshar</string>
+    <string name="setup_title">Write with Akshar</string>
+    <string name="setup_description">Akshar is an offline transliteration keyboard. Enable it in Android settings, then choose it from your keyboard switcher.</string>
+    <string name="enable_keyboard">Enable Akshar</string>
+    <string name="choose_keyboard">Choose Akshar</string>
+    <string name="privacy_note">Your typing stays on your device. Akshar does not request internet access or collect text.</string>
+</resources>

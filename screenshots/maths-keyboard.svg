@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="680" viewBox="0 0 360 680" role="img" aria-labelledby="title description">
+  <title id="title">Akshar maths keyboard preview</title>
+  <desc id="description">Illustration of Akshar's maths page with parentheses, braces, comparison operators, tilde, degree, set, union, intersection, summation, standard deviation, and congruence symbols, phi, pi, integral, a such-that bar, superscript, and subscript keys, plus shift, ABC, 123, space, backspace, and enter controls.</desc>
+  <rect width="360" height="680" rx="34" fill="#e4e1d8"/>
+  <rect x="14" y="12" width="332" height="656" rx="29" fill="#ffffff"/>
+  <rect x="145" y="21" width="70" height="7" rx="4" fill="#d1cec5"/>
+  <g fill="#20251f" font-family="Arial, sans-serif">
+    <text x="36" y="53" font-size="12" font-weight="700">9:41</text>
+    <text x="286" y="53" font-size="12">●  ▰</text>
+    <text x="32" y="106" font-size="14" font-weight="700">Message</text>
+    <text x="32" y="164" font-size="21">Type with Akshar</text>
+  </g>
+  <path d="M32 187H328" stroke="#e6e2d8"/>
+  <rect x="14" y="264" width="332" height="205" fill="#f4f1e9"/>
+  <g fill="#fffefa" stroke="#e6e2d8">
+    <rect x="14" y="294" width="24.4" height="36" rx="6"/><rect x="41.2" y="294" width="24.4" height="36" rx="6"/><rect x="68.4" y="294" width="24.4" height="36" rx="6"/><rect x="95.6" y="294" width="24.4" height="36" rx="6"/><rect x="122.8" y="294" width="24.4" height="36" rx="6"/><rect x="150" y="294" width="24.4" height="36" rx="6"/><rect x="177.2" y="294" width="24.4" height="36" rx="6"/><rect x="204.4" y="294" width="24.4" height="36" rx="6"/><rect x="231.6" y="294" width="24.4" height="36" rx="6"/><rect x="258.8" y="294" width="24.4" height="36" rx="6"/><rect x="286" y="294" width="24.4" height="36" rx="6"/><rect x="313.2" y="294" width="24.4" height="36" rx="6"/>
+    <rect x="14" y="336" width="22.8" height="36" rx="6"/><rect x="39.4" y="336" width="22.8" height="36" rx="6"/><rect x="64.8" y="336" width="22.8" height="36" rx="6"/><rect x="90.2" y="336" width="22.8" height="36" rx="6"/><rect x="115.6" y="336" width="22.8" height="36" rx="6"/><rect x="141" y="336" width="22.8" height="36" rx="6"/><rect x="166.4" y="336" width="22.8" height="36" rx="6"/><rect x="191.8" y="336" width="22.8" height="36" rx="6"/><rect x="217.2" y="336" width="22.8" height="36" rx="6"/><rect x="242.6" y="336" width="22.8" height="36" rx="6"/><rect x="268" y="336" width="22.8" height="36" rx="6"/><rect x="293.4" y="336" width="22.8" height="36" rx="6"/><rect x="318.8" y="336" width="22.8" height="36" rx="6"/>
+    <rect x="20" y="420" width="40" height="36" rx="8" fill="#315c48" stroke="#315c48"/><rect x="66" y="420" width="40" height="36" rx="8"/><rect x="112" y="420" width="40" height="36" rx="8"/><rect x="158" y="420" width="90" height="36" rx="8"/><rect x="254" y="420" width="40" height="36" rx="8"/><rect x="300" y="420" width="40" height="36" rx="8"/>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#234535" font-size="14" font-weight="700">
+    <text x="26.2" y="317">(</text><text x="53.4" y="317">)</text><text x="80.6" y="317">~</text><text x="107.8" y="317">°</text><text x="135" y="317">≤</text><text x="162.2" y="317">≥</text><text x="189.4" y="317">≠</text><text x="216.6" y="317">{</text><text x="243.8" y="317">}</text><text x="271" y="317">&lt;</text><text x="298.2" y="317">&gt;</text><text x="325.4" y="317">∑</text>
+    <text x="25.4" y="359">∪</text><text x="50.8" y="359">∩</text><text x="76.2" y="359">σ</text><text x="101.6" y="359">⊆</text><text x="127" y="359">⊂</text><text x="152.4" y="359">∈</text><text x="177.8" y="359">φ</text><text x="203.2" y="359">π</text><text x="228.6" y="359">∫</text><text x="254" y="359">|</text><text x="279.4" y="359">≡</text><text x="304.8" y="359">xⁿ</text><text x="330.2" y="359">xₙ</text>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#62675d" font-size="13" font-weight="700">
+    <text x="40" y="441" fill="#ffffff">⇧</text><text x="86" y="441">ABC</text><text x="132" y="441">123</text><text x="203" y="441" font-size="11" font-weight="500">space</text><text x="274" y="441">⌫</text><text x="320" y="441">↵</text>
+  </g>
+  <rect x="147" y="647" width="66" height="4" rx="2" fill="#20251f" opacity=".65"/>
+</svg>

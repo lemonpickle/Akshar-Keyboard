@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="680" viewBox="0 0 360 680" role="img" aria-labelledby="title description">
+  <title id="title">Akshar number keyboard preview</title>
+  <desc id="description">Illustration of Akshar's number and symbol page, with a row of symbols, a number row, and shift, ABC, summation maths shortcut, space, backspace, and enter controls.</desc>
+  <rect width="360" height="680" rx="34" fill="#e4e1d8"/>
+  <rect x="14" y="12" width="332" height="656" rx="29" fill="#ffffff"/>
+  <rect x="145" y="21" width="70" height="7" rx="4" fill="#d1cec5"/>
+  <g fill="#20251f" font-family="Arial, sans-serif">
+    <text x="36" y="53" font-size="12" font-weight="700">9:41</text>
+    <text x="286" y="53" font-size="12">●  ▰</text>
+    <text x="32" y="106" font-size="14" font-weight="700">Message</text>
+    <text x="32" y="164" font-size="21">Type with Akshar</text>
+  </g>
+  <path d="M32 187H328" stroke="#e6e2d8"/>
+  <rect x="14" y="264" width="332" height="205" fill="#f4f1e9"/>
+  <g fill="#fffefa" stroke="#e6e2d8">
+    <rect x="22" y="294" width="28" height="36" rx="6"/><rect x="54" y="294" width="28" height="36" rx="6"/><rect x="86" y="294" width="28" height="36" rx="6"/><rect x="118" y="294" width="28" height="36" rx="6"/><rect x="150" y="294" width="28" height="36" rx="6"/><rect x="182" y="294" width="28" height="36" rx="6"/><rect x="214" y="294" width="28" height="36" rx="6"/><rect x="246" y="294" width="28" height="36" rx="6"/><rect x="278" y="294" width="28" height="36" rx="6"/><rect x="310" y="294" width="28" height="36" rx="6"/>
+    <rect x="22" y="336" width="28" height="36" rx="6"/><rect x="54" y="336" width="28" height="36" rx="6"/><rect x="86" y="336" width="28" height="36" rx="6"/><rect x="118" y="336" width="28" height="36" rx="6"/><rect x="150" y="336" width="28" height="36" rx="6"/><rect x="182" y="336" width="28" height="36" rx="6"/><rect x="214" y="336" width="28" height="36" rx="6"/><rect x="246" y="336" width="28" height="36" rx="6"/><rect x="278" y="336" width="28" height="36" rx="6"/><rect x="310" y="336" width="28" height="36" rx="6"/>
+    <rect x="20" y="420" width="40" height="36" rx="8" fill="#315c48" stroke="#315c48"/><rect x="66" y="420" width="40" height="36" rx="8"/><rect x="112" y="420" width="40" height="36" rx="8"/><rect x="158" y="420" width="90" height="36" rx="8"/><rect x="254" y="420" width="40" height="36" rx="8"/><rect x="300" y="420" width="40" height="36" rx="8"/>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#234535" font-size="14" font-weight="700">
+    <text x="36" y="317">+</text><text x="68" y="317">-</text><text x="100" y="317">*</text><text x="132" y="317">/</text><text x="164" y="317">=</text><text x="196" y="317">,</text><text x="228" y="317">.</text><text x="260" y="317">:</text><text x="292" y="317">₹</text><text x="324" y="317">%</text>
+    <text x="36" y="359">1</text><text x="68" y="359">2</text><text x="100" y="359">3</text><text x="132" y="359">4</text><text x="164" y="359">5</text><text x="196" y="359">6</text><text x="228" y="359">7</text><text x="260" y="359">8</text><text x="292" y="359">9</text><text x="324" y="359">0</text>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#62675d" font-size="13" font-weight="700">
+    <text x="40" y="441" fill="#ffffff">⇧</text><text x="86" y="441">ABC</text><text x="132" y="441">∑</text><text x="203" y="441" font-size="11" font-weight="500">space</text><text x="274" y="441">⌫</text><text x="320" y="441">↵</text>
+  </g>
+  <rect x="147" y="647" width="66" height="4" rx="2" fill="#20251f" opacity=".65"/>
+</svg>
